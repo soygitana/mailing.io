@@ -1,0 +1,112 @@
+<mjml>
+  <mj-body background-color="#fff">
+    <mj-section background-color="#ffffff">
+      <mj-column width="30%">
+        <mj-image href="#"align="left" src="images/logo.png" alt="splio logo" width="100%"></mj-image>
+      </mj-column>
+      <mj-column width="70%">
+          <mj-text align="right" font-size="10px" font-family="sans-serif" color="#27416b">
+          <p>Online. Offline. Aligned. Welcome to Lorem.<br><br>
+          If you are unable to view this message correctly, <a href="#" style="color:#27416b; font-weight:bold">you can read it online.</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#c3edfc" padding-bottom="0px" padding-top="0">
+      <mj-column width="60%">
+   <mj-text font-size="12px" font-family="sans-serif" color="#27416b" font-weight="bold">
+          <p>FIND OUT ABOUT LOREM FEATURES.</p>
+        </mj-text>
+      </mj-column>
+      <mj-column width="40%">
+        <mj-social align="right" padding-top="15px">
+          <mj-social-element src="images/facebook.png" href="https://pl-pl.facebook.com/pl/"></mj-social-element>
+          <mj-social-element src="images/twitter.png" href="https://twitter.com/"></mj-social-element>
+          <mj-social-element src="images/linkedin.png" href="https://www.linkedin.com/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff">
+      <mj-column width="100%">
+        <mj-image src="images/banner.jpg" alt="banner" width="700px" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#fff" padding-bottom="20px" padding-top="20px">
+      <mj-column>
+        <mj-text align="center" font-size="14px" color="#27416b" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p style="font-size:32px; font-weight:bold">Offline.</p>
+          <p style="line-height:1.5">Know your customers wherever they are. Target them with loyalty offers that drive revenue.</p>
+        </mj-text>
+      </mj-column>
+         <mj-column>
+        <mj-text align="center" font-size="14px" color="#27416b" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+                   <p style="font-size:32px; font-weight:bold">Online.</p>
+          <p style="line-height:1.5">Reach customers online. Drive additional revenue targeted offers to nudge customer behavior.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#f5f0e8">
+      <mj-column width="30%" background-color="#fff" "padding="20px">
+        <mj-image href="#" src="images/report.jpg" alt="report" width="70%"></mj-image>
+        <mj-text align="center" font-size="14px" color="#27416b" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="0">
+          <p style="font-size:32px; font-weight:bold; padding-bottom:10px">Report</p>
+          <p style="font-size:12px">ADVANCED DASHBORDS</p>
+          <br>
+                <p>  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            At animi eum dolore necessitatibus,
+                            blanditiis odio minus magni id ipsum</p>             
+        </mj-text>
+        <mj-button background-color="#004797" color="white">
+         Check
+         </mj-button>
+      </mj-column>
+        <mj-column width="3%" background-color="#f5f0e8">
+      </mj-column>
+            <mj-column width="30%" background-color="#fff" "padding="20px">
+               <mj-image href="#" src="images/data.jpg" alt="report" width="70%"></mj-image>
+            <mj-text align="center" font-size="14px" color="#27416b" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="0">
+                   <p style="font-size:32px; font-weight:bold; padding-bottom:10px">Data</p>
+        <p style="font-size:12px">DATA CENTRALIZATION</p>
+             <br>
+                <p>  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            At animi eum dolore necessitatibus,
+                            blanditiis odio minus magni id ipsum</p>
+        </mj-text>
+        <mj-button background-color="#004797" color="white">
+         Check
+         </mj-button>
+      </mj-column>
+          <mj-column width="3%" background-color="#f5f0e8">
+      </mj-column>
+              <mj-column width="30%" background-color="#fff" "padding="20px">
+                 <mj-image href="#" src="images/target.jpg" alt="report" width="70%"></mj-image>
+         <mj-text align="center" font-size="14px" color="#27416b" padding-left="15px" padding-right="15px" padding-bottom="0px" padding-top="0">
+                   <p style="font-size:32px; font-weight:bold; padding-bottom:10px">Target</p>
+         <p style="font-size:12px">DATA CENTRALIZATION</p>
+              <br>
+                <p>  Lorem ipsum dolor sit amet consectetur adipisicing elit.
+                            At animi eum dolore necessitatibus,
+                            blanditiis odio minus magni id ipsum</p>
+        </mj-text>
+          <mj-button background-color="#004797" color="white">
+         Check
+        </mj-button>
+      </mj-column>
+    </mj-section>
+      <mj-section background-color="#c3edfc" padding-bottom="0px" padding-top="0">
+      <mj-column width="100%">
+   <mj-text font-size="12px" font-family="sans-serif" color="#27416b" font-weight="bold" align="center">
+          <p>Copyright 2018 soygitana.</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+          <mj-section background-color="#fff" padding-bottom="0px" padding-top="0">
+      <mj-column width="100%">
+   <mj-text font-size="10px" padding-left="10px" font-family="sans-serif" color="#ff897a" align="left" line-height="1.5">
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<br><br>
+If you whish to stop reciving these emails,<a href="#" style="text-decoration: none; color: #ff897a; font-weight: bold">click here to.</a></p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
