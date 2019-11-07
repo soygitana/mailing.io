@@ -2,7 +2,7 @@
 
 Reach your audience and boost brand recognition! :) 
 
- https://soygitana.github.io/mailing/
+https://soygitana.github.io/
  
  ### Used: 
  
