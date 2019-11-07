@@ -1,4 +1,4 @@
-## full responsive html newsletter
+## fully responsive html newsletter
 
 Reach your audience and boost brand recognition! :) 
 
